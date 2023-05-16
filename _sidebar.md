@@ -2,3 +2,4 @@
 * [首页]()
 * [指南](zh_cn/guide.md "The greatest guide in the world")
 * [new1](zh_cn/mynew.md)
+* [my_app](zh_cn/my_app.md)
